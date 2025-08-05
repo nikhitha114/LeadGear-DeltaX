@@ -2,7 +2,9 @@ LeadGear is a smart, streamlined lead management system tailored for HSR Motors.
 
 
 
-OUTPUT SCREENSHOTS:
+                                                                        OUTPUT SCREENSHOTS:
+
+
 <img width="662" height="839" alt="Screenshot 2025-08-05 151846" src="https://github.com/user-attachments/assets/b68570d5-67f3-4ad1-93a0-938192b9e606" />
 
 <img width="661" height="843" alt="Screenshot 2025-08-05 151909" src="https://github.com/user-attachments/assets/c4b2b18d-e716-4fb7-b79f-7b6832a25bc7" />
