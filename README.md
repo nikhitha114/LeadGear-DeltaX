@@ -1,4 +1,7 @@
 LeadGear is a smart, streamlined lead management system tailored for HSR Motors. It enables automotive sales teams to efficiently capture, manage, and convert leads through an intuitive dashboard, seamless lead detail tracking, and robust follow-up scheduling. Designed for speed and clarity, LeadGear simplifies day-to-day operations and improves sales outcomes by keeping your team focused and organized.
+
+
+
 OUTPUT SCREENSHOTS:
 <img width="662" height="839" alt="Screenshot 2025-08-05 151846" src="https://github.com/user-attachments/assets/b68570d5-67f3-4ad1-93a0-938192b9e606" />
 
